@@ -1,0 +1,5 @@
+Result of Poll:Is this assignment too difficult?
+
+ Yes:	0
+ No:	6
+ Maybe:	7

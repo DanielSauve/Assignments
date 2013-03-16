@@ -1,0 +1,10 @@
+Result of Poll:What is your favourite videogame?
+
+ World of Warcraft:	3
+ League of Legends:	9
+ Minecraft:	6
+ Call of Duty:	6
+ Battlefield:	16
+ Counter Strike:	4
+ Portal:	1
+ Star Wars: The Old Republic:	4
